@@ -20,8 +20,8 @@
 					$("#records").find('tbody')
     					.append($('<tr>')
         				.append($('<td>').text(item.bookingId))
-        				.append($('<td>').text(item.guest.firstName + ' ' + item.guest.lastName))
-        				.append($('<td>').text(item.room.name))
+        				.append($('<td>').text(item.guestId))
+        				.append($('<td>').text(item.roomId))
         				.append($('<td>').text(item.startDate))
         				.append($('<td>').text(item.endDate))
         			);

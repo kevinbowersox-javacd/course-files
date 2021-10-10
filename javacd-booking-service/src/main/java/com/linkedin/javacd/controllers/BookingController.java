@@ -37,6 +37,18 @@ public class BookingController {
 	}
 
 	@GetMapping
+	public ResponseEntity<List<Booking>> getBookings(){
+		
+		List<Booking> currentBookings = this.bookingService.list();
+				
+		return ResponseEntity.ok(currentBookings);
+	
+	}
+
+	
+	/* TODO: Integrate with Room and Guest Services
+	 
+	@GetMapping
 	public ResponseEntity<List<BookingResponse>> getBookings(){
 		
 		List<BookingResponse> currentBookings = this.bookingService.list().stream()
@@ -73,6 +85,7 @@ public class BookingController {
 		return ResponseEntity.ok(currentBookings);
 	
 	}
+	*/
 
 	@GetMapping("/{roomId}/{guestId}")
 	public ResponseEntity<Booking> book(@PathVariable("roomId") Long roomId, @PathVariable("guestId") Long guestId) {

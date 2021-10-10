@@ -1,0 +1,426 @@
+src/main/java/com/linkedin/javacd/BookingServiceApplication.java:5:	UnnecessaryImport:	UnnecessaryImport: Unused import 'org.springframework.scheduling.annotation.EnableAsync'
+src/main/java/com/linkedin/javacd/BookingServiceApplication.java:5:	UnnecessaryImport:	UnnecessaryImport: Unused import 'org.springframework.scheduling.annotation.EnableAsync'
+src/main/java/com/linkedin/javacd/BookingServiceApplication.java:5:	UnusedImports:	UnusedImports: Unused import 'org.springframework.scheduling.annotation.EnableAsync'
+src/main/java/com/linkedin/javacd/BookingServiceApplication.java:5:	UnusedImports:	UnusedImports: Unused import 'org.springframework.scheduling.annotation.EnableAsync'
+src/main/java/com/linkedin/javacd/BookingServiceApplication.java:8:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/linkedin/javacd/BookingServiceApplication.java:8:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/linkedin/javacd/BookingServiceApplication.java:8:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/linkedin/javacd/BookingServiceApplication.java:8:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/linkedin/javacd/BookingServiceApplication.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/BookingServiceApplication.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/BookingServiceApplication.java:10:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/BookingServiceApplication.java:10:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:9:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:9:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:12:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:12:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:15:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:15:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:18:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:18:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:21:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:21:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:21:	LongVariable:	LongVariable: Avoid excessively long variable names like guestServiceDomain
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:21:	LongVariable:	LongVariable: Avoid excessively long variable names like guestServiceDomain
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:24:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:24:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:25:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'port' could be declared final
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:25:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'port' could be declared final
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:30:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:30:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'port' could be declared final
+src/main/java/com/linkedin/javacd/config/ApplicationConfig.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'port' could be declared final
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:5:	UnnecessaryImport:	UnnecessaryImport: Unused import 'java.util.stream.Collectors'
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:5:	UnnecessaryImport:	UnnecessaryImport: Unused import 'java.util.stream.Collectors'
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:5:	UnusedImports:	UnusedImports: Unused import 'java.util.stream.Collectors'
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:5:	UnusedImports:	UnusedImports: Unused import 'java.util.stream.Collectors'
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:14:	UnnecessaryImport:	UnnecessaryImport: Unused import 'com.fasterxml.jackson.databind.JsonNode'
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:14:	UnnecessaryImport:	UnnecessaryImport: Unused import 'com.fasterxml.jackson.databind.JsonNode'
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:14:	UnusedImports:	UnusedImports: Unused import 'com.fasterxml.jackson.databind.JsonNode'
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:14:	UnusedImports:	UnusedImports: Unused import 'com.fasterxml.jackson.databind.JsonNode'
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:15:	UnnecessaryImport:	UnnecessaryImport: Unused import 'com.fasterxml.jackson.databind.node.ArrayNode'
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:15:	UnnecessaryImport:	UnnecessaryImport: Unused import 'com.fasterxml.jackson.databind.node.ArrayNode'
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:15:	UnusedImports:	UnusedImports: Unused import 'com.fasterxml.jackson.databind.node.ArrayNode'
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:15:	UnusedImports:	UnusedImports: Unused import 'com.fasterxml.jackson.databind.node.ArrayNode'
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:16:	UnnecessaryImport:	UnnecessaryImport: Unused import 'com.linkedin.javacd.controllers.payloads.BookingResponse'
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:16:	UnnecessaryImport:	UnnecessaryImport: Unused import 'com.linkedin.javacd.controllers.payloads.BookingResponse'
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:16:	UnusedImports:	UnusedImports: Unused import 'com.linkedin.javacd.controllers.payloads.BookingResponse'
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:16:	UnusedImports:	UnusedImports: Unused import 'com.linkedin.javacd.controllers.payloads.BookingResponse'
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:24:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:24:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:26:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:26:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:26:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:26:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:26:	ImmutableField:	ImmutableField: Private field 'bookingService' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:26:	ImmutableField:	ImmutableField: Private field 'bookingService' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:28:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:28:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:28:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:28:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:28:	ImmutableField:	ImmutableField: Private field 'guestService' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:28:	ImmutableField:	ImmutableField: Private field 'guestService' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:28:	SingularField:	SingularField: Perhaps 'guestService' could be replaced by a local variable.
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:28:	SingularField:	SingularField: Perhaps 'guestService' could be replaced by a local variable.
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:28:	UnusedPrivateField:	UnusedPrivateField: Avoid unused private fields such as 'guestService'.
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:28:	UnusedPrivateField:	UnusedPrivateField: Avoid unused private fields such as 'guestService'.
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:30:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:30:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:30:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:30:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:30:	ImmutableField:	ImmutableField: Private field 'roomService' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:30:	ImmutableField:	ImmutableField: Private field 'roomService' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:30:	SingularField:	SingularField: Perhaps 'roomService' could be replaced by a local variable.
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:30:	SingularField:	SingularField: Perhaps 'roomService' could be replaced by a local variable.
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:30:	UnusedPrivateField:	UnusedPrivateField: Avoid unused private fields such as 'roomService'.
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:30:	UnusedPrivateField:	UnusedPrivateField: Avoid unused private fields such as 'roomService'.
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:33:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:33:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'bookingService' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'bookingService' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'guestService' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'guestService' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'roomService' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'roomService' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:40:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:40:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:42:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'currentBookings' could be declared final
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:42:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'currentBookings' could be declared final
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:49:	CommentSize:	CommentSize: Comment is too large: Too many lines
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:49:	CommentSize:	CommentSize: Comment is too large: Too many lines
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:91:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:91:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:91:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'guestId' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:91:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'guestId' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:91:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'roomId' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:91:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'roomId' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:93:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/controllers/BookingController.java:93:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:9:	DataClass:	DataClass: The class 'BookingResponse' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=12, WMC=13)
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:9:	DataClass:	DataClass: The class 'BookingResponse' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=12, WMC=13)
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:24:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:24:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'booking' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'booking' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:35:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'bookingId' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:35:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'bookingId' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'startDate' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'startDate' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'endDate' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'endDate' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:59:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'room' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:59:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'room' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:67:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'guest' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:67:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'guest' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:75:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'booking' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/controllers/payloads/BookingResponse.java:75:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'booking' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/entities/Booking.java:14:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/linkedin/javacd/entities/Booking.java:14:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/linkedin/javacd/entities/Booking.java:14:	DataClass:	DataClass: The class 'Booking' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=10, WMC=12)
+src/main/java/com/linkedin/javacd/entities/Booking.java:14:	DataClass:	DataClass: The class 'Booking' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=10, WMC=12)
+src/main/java/com/linkedin/javacd/entities/Booking.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/entities/Booking.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/entities/Booking.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/entities/Booking.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/entities/Booking.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/entities/Booking.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/entities/Booking.java:28:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/entities/Booking.java:28:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/entities/Booking.java:31:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/entities/Booking.java:31:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/entities/Booking.java:33:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/entities/Booking.java:33:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/entities/Booking.java:33:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/linkedin/javacd/entities/Booking.java:33:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/linkedin/javacd/entities/Booking.java:37:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/entities/Booking.java:37:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/entities/Booking.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'endDate' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/entities/Booking.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'endDate' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/entities/Booking.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'guestId' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/entities/Booking.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'guestId' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/entities/Booking.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'roomId' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/entities/Booking.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'roomId' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/entities/Booking.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'startDate' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/entities/Booking.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'startDate' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/entities/Booking.java:48:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'bookingId' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/entities/Booking.java:48:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'bookingId' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/entities/Booking.java:56:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'guestId' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/entities/Booking.java:56:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'guestId' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/entities/Booking.java:64:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'roomId' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/entities/Booking.java:64:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'roomId' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/entities/Booking.java:72:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'startDate' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/entities/Booking.java:72:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'startDate' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/entities/Booking.java:80:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'endDate' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/entities/Booking.java:80:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'endDate' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/repositories/BookingRepository.java:12:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/linkedin/javacd/repositories/BookingRepository.java:12:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/linkedin/javacd/repositories/BookingRepository.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/repositories/BookingRepository.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/repositories/BookingRepository.java:14:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByStartDateAfter': the method is declared in an interface type
+src/main/java/com/linkedin/javacd/repositories/BookingRepository.java:14:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByStartDateAfter': the method is declared in an interface type
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:9:	UnnecessaryImport:	UnnecessaryImport: Unused import 'org.springframework.http.MediaType'
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:9:	UnnecessaryImport:	UnnecessaryImport: Unused import 'org.springframework.http.MediaType'
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:9:	UnusedImports:	UnusedImports: Unused import 'org.springframework.http.MediaType'
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:9:	UnusedImports:	UnusedImports: Unused import 'org.springframework.http.MediaType'
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:12:	UnnecessaryImport:	UnnecessaryImport: Unused import 'com.fasterxml.jackson.databind.node.ArrayNode'
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:12:	UnnecessaryImport:	UnnecessaryImport: Unused import 'com.fasterxml.jackson.databind.node.ArrayNode'
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:12:	UnusedImports:	UnusedImports: Unused import 'com.fasterxml.jackson.databind.node.ArrayNode'
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:12:	UnusedImports:	UnusedImports: Unused import 'com.fasterxml.jackson.databind.node.ArrayNode'
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:19:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:19:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:19:	ImmutableField:	ImmutableField: Private field 'roomService' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:19:	ImmutableField:	ImmutableField: Private field 'roomService' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:20:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:20:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:20:	ImmutableField:	ImmutableField: Private field 'guestService' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:20:	ImmutableField:	ImmutableField: Private field 'guestService' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:21:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:21:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:21:	ImmutableField:	ImmutableField: Private field 'bookingRepository' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:21:	ImmutableField:	ImmutableField: Private field 'bookingRepository' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:24:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:24:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'bookingRepository' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'bookingRepository' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'guestService' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'guestService' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'roomService' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'roomService' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'endDate' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'endDate' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'guestId' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'guestId' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'roomId' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'roomId' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'startDate' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'startDate' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:34:	AvoidThrowingRawExceptionTypes:	AvoidThrowingRawExceptionTypes: Avoid throwing raw exception types.
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:34:	AvoidThrowingRawExceptionTypes:	AvoidThrowingRawExceptionTypes: Avoid throwing raw exception types.
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:41:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:41:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:41:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:41:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:52:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicBookingService.java:52:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:20:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:20:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:22:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:22:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:22:	ImmutableField:	ImmutableField: Private field 'webClient' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:22:	ImmutableField:	ImmutableField: Private field 'webClient' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:25:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:25:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'webClient' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'webClient' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'guestId' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'guestId' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:32:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'path' could be declared final
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:32:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'path' could be declared final
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:34:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:34:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:34:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:34:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:34:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:34:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:34:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:34:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:34:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:34:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:34:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:34:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'result' could be declared final
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'result' could be declared final
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:42:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:42:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:48:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ids' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:48:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ids' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:51:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'param' (lines '51'-'68').
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:51:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'param' (lines '51'-'68').
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:51:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:51:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:51:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:51:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:51:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'param' could be declared final
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:51:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'param' could be declared final
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:55:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:55:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:55:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:55:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:55:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:55:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:55:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:55:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:55:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:55:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:55:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'results' could be declared final
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:55:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'results' could be declared final
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:65:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/com/linkedin/javacd/services/BasicGuestService.java:65:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:19:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:19:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:19:	ImmutableField:	ImmutableField: Private field 'webClient' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:19:	ImmutableField:	ImmutableField: Private field 'webClient' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:22:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:22:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:25:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:25:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'webClient' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'webClient' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'roomId' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'roomId' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:32:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'path' could be declared final
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:32:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'path' could be declared final
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:34:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:34:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:34:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:34:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:34:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:34:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:34:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:34:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:34:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:34:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'result' could be declared final
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'result' could be declared final
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:41:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:41:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:41:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:41:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:47:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ids' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:47:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ids' is not assigned and could be declared final
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:49:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'param' (lines '49'-'67').
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:49:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'param' (lines '49'-'67').
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:49:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:49:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:49:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:49:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:49:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'param' could be declared final
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:49:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'param' could be declared final
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:54:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:54:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:54:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:54:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:54:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:54:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:54:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:54:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:54:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:54:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:54:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'results' could be declared final
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:54:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'results' could be declared final
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:64:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/com/linkedin/javacd/services/BasicRoomService.java:64:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/com/linkedin/javacd/services/BookingService.java:7:	UnnecessaryImport:	UnnecessaryImport: Unused import 'com.fasterxml.jackson.databind.node.ArrayNode'
+src/main/java/com/linkedin/javacd/services/BookingService.java:7:	UnnecessaryImport:	UnnecessaryImport: Unused import 'com.fasterxml.jackson.databind.node.ArrayNode'
+src/main/java/com/linkedin/javacd/services/BookingService.java:7:	UnusedImports:	UnusedImports: Unused import 'com.fasterxml.jackson.databind.node.ArrayNode'
+src/main/java/com/linkedin/javacd/services/BookingService.java:7:	UnusedImports:	UnusedImports: Unused import 'com.fasterxml.jackson.databind.node.ArrayNode'
+src/main/java/com/linkedin/javacd/services/BookingService.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/linkedin/javacd/services/BookingService.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/linkedin/javacd/services/BookingService.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/services/BookingService.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/services/BookingService.java:12:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/linkedin/javacd/services/BookingService.java:12:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/linkedin/javacd/services/BookingService.java:12:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findById': the method is declared in an interface type
+src/main/java/com/linkedin/javacd/services/BookingService.java:12:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findById': the method is declared in an interface type
+src/main/java/com/linkedin/javacd/services/BookingService.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/services/BookingService.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/services/BookingService.java:14:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'list': the method is declared in an interface type
+src/main/java/com/linkedin/javacd/services/BookingService.java:14:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'list': the method is declared in an interface type
+src/main/java/com/linkedin/javacd/services/BookingService.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/services/BookingService.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/services/BookingService.java:16:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'listAvailable': the method is declared in an interface type
+src/main/java/com/linkedin/javacd/services/BookingService.java:16:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'listAvailable': the method is declared in an interface type
+src/main/java/com/linkedin/javacd/services/BookingService.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/services/BookingService.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/services/BookingService.java:18:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'create': the method is declared in an interface type
+src/main/java/com/linkedin/javacd/services/BookingService.java:18:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'create': the method is declared in an interface type
+src/main/java/com/linkedin/javacd/services/GuestService.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/linkedin/javacd/services/GuestService.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/linkedin/javacd/services/GuestService.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/services/GuestService.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/services/GuestService.java:9:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'isRegistered': the method is declared in an interface type
+src/main/java/com/linkedin/javacd/services/GuestService.java:9:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'isRegistered': the method is declared in an interface type
+src/main/java/com/linkedin/javacd/services/GuestService.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/services/GuestService.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/services/GuestService.java:11:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'list': the method is declared in an interface type
+src/main/java/com/linkedin/javacd/services/GuestService.java:11:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'list': the method is declared in an interface type
+src/main/java/com/linkedin/javacd/services/RoomService.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/linkedin/javacd/services/RoomService.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/linkedin/javacd/services/RoomService.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/services/RoomService.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/services/RoomService.java:9:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'isAvailable': the method is declared in an interface type
+src/main/java/com/linkedin/javacd/services/RoomService.java:9:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'isAvailable': the method is declared in an interface type
+src/main/java/com/linkedin/javacd/services/RoomService.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/services/RoomService.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/linkedin/javacd/services/RoomService.java:11:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'list': the method is declared in an interface type
+src/main/java/com/linkedin/javacd/services/RoomService.java:11:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'list': the method is declared in an interface type
+src/test/java/com/linkedin/javacd/BookingServiceApplicationTests.java:7:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/linkedin/javacd/BookingServiceApplicationTests.java:7:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/linkedin/javacd/BookingServiceApplicationTests.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/linkedin/javacd/BookingServiceApplicationTests.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/linkedin/javacd/BookingServiceApplicationTests.java:10:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/linkedin/javacd/BookingServiceApplicationTests.java:10:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/linkedin/javacd/BookingServiceApplicationTests.java:10:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/linkedin/javacd/BookingServiceApplicationTests.java:10:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/linkedin/javacd/BookingServiceApplicationTests.java:10:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+src/test/java/com/linkedin/javacd/BookingServiceApplicationTests.java:10:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+src/test/java/com/linkedin/javacd/services/BasicBookingServiceTest.java:16:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/linkedin/javacd/services/BasicBookingServiceTest.java:16:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/linkedin/javacd/services/BasicBookingServiceTest.java:16:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/linkedin/javacd/services/BasicBookingServiceTest.java:16:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/linkedin/javacd/services/BasicBookingServiceTest.java:19:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/linkedin/javacd/services/BasicBookingServiceTest.java:19:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/linkedin/javacd/services/BasicBookingServiceTest.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/linkedin/javacd/services/BasicBookingServiceTest.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/linkedin/javacd/services/BasicBookingServiceTest.java:22:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testList method if you want a default access modifier
+src/test/java/com/linkedin/javacd/services/BasicBookingServiceTest.java:22:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testList method if you want a default access modifier
+src/test/java/com/linkedin/javacd/services/BasicBookingServiceTest.java:24:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bookings' could be declared final
+src/test/java/com/linkedin/javacd/services/BasicBookingServiceTest.java:24:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bookings' could be declared final
+src/test/java/com/linkedin/javacd/services/BasicBookingServiceTest.java:25:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/linkedin/javacd/services/BasicBookingServiceTest.java:25:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/linkedin/javacd/services/BasicBookingServiceTest.java:25:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/linkedin/javacd/services/BasicBookingServiceTest.java:25:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)

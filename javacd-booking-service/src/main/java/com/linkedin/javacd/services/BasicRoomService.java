@@ -40,7 +40,6 @@ public class BasicRoomService implements RoomService {
 
 		System.out.println(result.toString());
 		
-
 		return true; 
 	}
 

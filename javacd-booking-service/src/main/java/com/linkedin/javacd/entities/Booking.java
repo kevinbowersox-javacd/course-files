@@ -16,13 +16,13 @@ public class Booking {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	@Column(name = "BOOKING_ID")
-	private Long BookingId;
+	private Long bookingId;
 
 	@Column(name = "GUEST_ID")
-	private Long GuestId;
+	private Long guestId;
 
 	@Column(name = "ROOM_ID")
-	private Long RoomId;
+	private Long roomId;
 
 	@Column(name = "START_DATE")
 	private Instant startDate;
@@ -35,34 +35,34 @@ public class Booking {
 	}
 
 	public Booking(Long guestId, Long roomId, Instant startDate, Instant endDate) {
-		GuestId = guestId;
-		RoomId = roomId;
+		this.guestId = guestId;
+		this.roomId = roomId;
 		this.startDate = startDate;
 		this.endDate = endDate;
 	}
 
 	public Long getBookingId() {
-		return BookingId;
+		return bookingId;
 	}
 
 	public void setBookingId(Long bookingId) {
-		BookingId = bookingId;
+		this.bookingId = bookingId;
 	}
 
 	public Long getGuestId() {
-		return GuestId;
+		return guestId;
 	}
 
 	public void setGuestId(Long guestId) {
-		GuestId = guestId;
+		this.guestId = guestId;
 	}
 
 	public Long getRoomId() {
-		return RoomId;
+		return roomId;
 	}
 
 	public void setRoomId(Long roomId) {
-		RoomId = roomId;
+		this.roomId = roomId;
 	}
 
 	public Instant getStartDate() {
